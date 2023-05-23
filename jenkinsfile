@@ -3,4 +3,4 @@ node('MAVEN_8_JDK'){
         git url: 'https://github.com/manojkauri/game-of-life.git',
             branch: 'scripted',
     }
-}
+}     
